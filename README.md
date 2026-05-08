@@ -19,7 +19,7 @@ Basados en Latinoamérica, con hambre de crecer y lanzar productos al mundo.
 
 ## 👨‍🚀 El equipo
 
-Somos 2-3 devs junior en constante aprendizaje, colaborando en proyectos
+Somos 4 devs junior en constante aprendizaje, colaborando en proyectos
 reales y construyendo nuestro portafolio juntos.
 
 ---
